@@ -1,4 +1,4 @@
-//?tercera parte
+//?funcion que muestra en consola que numero es par y cual es impar de los numeros dados anteriormente 
 function convertirAString(arr) {
     let nuevoArr = [];
     //aqui se esta haciendo el proceso donde se añade cual es numero par y cual impar
@@ -12,5 +12,5 @@ function convertirAString(arr) {
   let arrayOriginal = [10, 5, 8, 9, 11, 200, 37, 52, 67, 93];
   let arrayConvertido = convertirAString(arrayOriginal);
   console.log(arrayConvertido);
-//?tercera parte-end
+//?-end
   

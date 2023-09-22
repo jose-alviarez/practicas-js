@@ -1,4 +1,4 @@
-//?sexta parte
+//?piramide de asteriscos invertidos, segun la cantidad de filas que elija el usuario 
 // pide al usuario el numero de filas de la piramide
 let numeroFilas = prompt("ingresa el numero de filas de la piramide:");
 // verifica si el valor ingresado es un numero valido
@@ -16,4 +16,4 @@ if (isNaN(numeroFilas)) {
     console.log(fila);
   }
 }
-//?sexta parte-end
+//?-end

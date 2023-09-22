@@ -1,4 +1,4 @@
-  //?tercera parte
+  //?funcion de ingreso de nota del usuario para saber si paso o no
   // mensaje para que el usuario ingrese la nota
   let nota = parseInt(prompt("Ingresa tu nota:"));
 
@@ -22,4 +22,4 @@
 let calificacion = convertirNota(nota);
 //respuesta del programa segun el dato ingresado  
 console.log("Tu calificación es: " + calificacion);
-//?tercera parte-end
+//?-end

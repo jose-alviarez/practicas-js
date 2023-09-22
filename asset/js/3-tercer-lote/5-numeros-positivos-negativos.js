@@ -1,4 +1,4 @@
-// ?quinta parte
+// ?programa que servira para ver si el usuario ingreso un numero positivo o negativo
 // solicitud de que el usuario ingrese un numero
 let numero = prompt("Ingresa un número:");
 
@@ -18,4 +18,4 @@ if (!isNaN(numero)) {
 } else {
   console.log("el valor ingresado no es un numero.");
 }
-// ?quinta parte-end
+// ?-end

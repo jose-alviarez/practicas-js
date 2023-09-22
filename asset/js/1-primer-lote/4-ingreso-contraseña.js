@@ -1,4 +1,5 @@
-//? cuarta parte
+//? programa de ingreso de contraseña, donde se le permite 
+//?al usuario pueda interactuar con la pagina si su clave es valida 
 let contraseña = "5663***hhjknc!";
 let seguir = true;
 while (seguir) {
@@ -10,4 +11,4 @@ while (seguir) {
     alert("Contraseña incorrecta");
   }
 }
-//? cuarta parte-end
+//? -end

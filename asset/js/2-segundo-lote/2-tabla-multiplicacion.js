@@ -1,7 +1,4 @@
-
-
-//?segunda parte
-// funsion para crear una tabla de multiplicar
+// ? funcion de tablas de multiplicar donde se hara hasta que tenga 10 filas de multiplos
 function crearTabla(num) {
     // revisa que sea valido el numero
     if (isNaN(num) || num < 1 || num > 100000000000000) {
@@ -29,4 +26,4 @@ function crearTabla(num) {
   numero = Number(numero);
   // llamar a la funcion con el numero ingresado
   crearTabla(numero);  
-  //?segunda parte-end
+  //?-end

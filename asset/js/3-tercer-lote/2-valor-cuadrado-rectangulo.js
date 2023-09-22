@@ -1,4 +1,5 @@
-//?segunda parte
+//?programa que el usuario ingrese dos valores, el cual va a comparar los numeros como medidas y 
+//?dira si es un rectangulo horizoontal,vertical o cuadrado
 // pide al usuario el valor
 let basee = prompt("Ingresa la longitud de la base:");
 let alto = prompt("Ingresa la altura:");
@@ -18,4 +19,4 @@ if (isNaN(basee) || isNaN(alto)) {
     console.log("es un rectangulo vertical");
   }
 }
-//?segunda parte-end
+//?-end

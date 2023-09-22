@@ -1,4 +1,4 @@
-//?primera parte
+//?programa que hara una fila de asteriscos segun ingrese el usuario 
 // mensaje para ingresar el numero de niveles
 let numeroMaximoNiveles = parseInt(prompt("ingresa el numero de filas de la piramide:"));
 // proceso de la funsion
@@ -13,4 +13,4 @@ function imprimirPiramide(numeroNiveles) {
   }
 // impresion de los niveles
 imprimirPiramide(numeroMaximoNiveles);
-//?primera parte-end
+//?-end

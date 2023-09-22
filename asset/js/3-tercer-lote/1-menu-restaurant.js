@@ -1,4 +1,4 @@
-// //?primera parte
+// //?menu de restaurante, que el usuario eliga algo del menu y de opciones si quiere la bebida que viene con el platillo o no
 // // Función para mostrar el menu y solicitar la eleccion al usuario
 // function mostrarMenu() {
 //     let eleccion = prompt("Bienvenido al restaurante. Elija una opcion del menu:\n1. Carne (viene acompañado con vino tinto )\n2. Pescado (viene acompañado con vino blanco)\n3. Verdura (viene acompañado con agua )");
@@ -42,7 +42,7 @@
   
 //   // resultado
 //   mostrarMenu();  
-// //?primer parte-end
+// -end
 
 
 

@@ -1,6 +1,5 @@
-//?cuarta parte
+//?sistema que mostrara los descuentos hechos de una tienda segun sea el monto que gaste el cliente
 let montoCompra;
-
 //se va a repetir el ciclo hasta que el usuario ingrese correctamente los datos
 while (true) {
   // pedir al usuario que ingrese monto
@@ -41,4 +40,4 @@ let totalPagar = montoCompra - descuento;
 console.log("Monto de la compra: €" + montoCompra);
 console.log("Descuento aplicado: €" + descuento);
 console.log("Total a pagar: €" + totalPagar);
-//?cuarta parte-end
+//?-end

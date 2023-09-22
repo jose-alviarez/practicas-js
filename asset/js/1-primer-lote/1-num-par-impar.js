@@ -1,4 +1,4 @@
-//? primera parte 
+//? ejercicio donde se debe ingresar un numero y debe saber si es un numero par o impar 
 let numero = prompt("Ingrese un numero para saber si es par o impar:");
 numero = Number(numero);
 if(isNaN(numero)){
@@ -10,4 +10,4 @@ alert ('no es un numero valido')
     console.log("El numero es impar.");
   }
 }
-//? primera parte-end   
+//? end   

@@ -1,4 +1,4 @@
-// ? ejercicio de samuel
+// ? funcion que conatara el numero de palabras que el usario ingrese 
 function contarLetras() {
     //ingreso de palabras 
       let texto = prompt("Ingresa un texto:");
@@ -17,4 +17,4 @@ function contarLetras() {
     let numeroDeLetras = contarLetras();
     // respuesta de consola
     console.log(numeroDeLetras);
-    // ? ejercicio de samuel-end
+    // ? -end

@@ -1,4 +1,4 @@
-// //?cuarta parte
+//? funcion donde el usurio debe ingresar una base y un exponente, que multiplique las veces segun el exponente que ingreso el usuario 
 // //valores iniciales
 // function potencia(base, exponente) {
 //     return Math.pow(base, exponente);
@@ -16,7 +16,7 @@
 //   // llama a la funcion potencia y mostrar el resultado
 //   let resultado = potencia(base, exponente);
 //   alert("El resultado de " + base + " elevado a " + exponente + " es " + resultado);
-//   //?cuarta parte-end
+//?-end
 
 
   //?correccion del ejercicio   

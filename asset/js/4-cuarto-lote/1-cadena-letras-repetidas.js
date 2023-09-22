@@ -1,4 +1,4 @@
-//?primera parte
+//? funcion donde se ingresa una letra y la cantidad de veces que quiera que se repita
 function crearCadena() {
     //letra que el usuario debe ingresar 
     let letra = prompt("ingrese una letra:");
@@ -7,13 +7,13 @@ function crearCadena() {
   
     // solo va a permitir numeros
     if (isNaN(numero)) {
-      console.log("el valor ingresado no es un número válido.");
+      console.log("el valor ingresado no es un numero valido.");
       return;
     }
   
     // no permitira mas de una letra 
     if (letra.length !== 1) {
-      console.log("el valor ingresado no es una letra válida.");
+      console.log("el valor ingresado no es una letra valida.");
       return;
     }
   
@@ -24,5 +24,5 @@ function crearCadena() {
   
   // resultado
   crearCadena();
-//?primera parte-end
+//?-end
   

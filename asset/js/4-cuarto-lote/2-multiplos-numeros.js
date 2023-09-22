@@ -1,4 +1,5 @@
-//?segunda parte
+//?funcion que sirve para saber si el primer valor ingresado 
+//?del usuario es multiplo del segundo valor que ingresen 
 function esMultiplo() {
     //mensajes de inicio 
     let num = prompt("ingrese el primer numero:");
@@ -31,4 +32,4 @@ function esMultiplo() {
   }
   // resultado
   esMultiplo();
-//?segunda parte-end
+//?-end
