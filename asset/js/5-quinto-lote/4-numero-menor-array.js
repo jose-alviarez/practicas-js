@@ -8,6 +8,9 @@ while (i < arr.length) {
         menor = arr[i];
     }
     i++;
+    
 }
 console.log("el numero menor es " + menor);
 //?end
+
+
