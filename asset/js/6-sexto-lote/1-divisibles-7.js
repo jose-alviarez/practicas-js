@@ -7,13 +7,14 @@ let divisibles = [];
 let suma = 0;
 
 for (let i = 0; i < array.length; i++) {
-  if (array[i] % 7 === 0) {
+  if (array[i] % 7 === 0 && array[i] !== 0) {
     divisibles.push(array[i]);
     suma += array[i];
   }
 }
 
 console.log(divisibles); 
-console.log(suma); 
+console.log(suma);
+
 
 //? -end
